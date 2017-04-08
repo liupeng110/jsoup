@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\work\\apps\\jsoup\\andlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\main.xml",
+        "source": "F:\\work\\apps\\jsoup\\andlib\\build\\intermediates\\bundles\\debug\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\work\\apps\\apps\\andlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\main.xml",
+        "source": "F:\\work\\apps\\apps\\andlib\\build\\intermediates\\bundles\\debug\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\videos\\xiaoyoux\\apps\\andlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\main.xml",
+        "source": "D:\\videos\\xiaoyoux\\apps\\andlib\\build\\intermediates\\bundles\\debug\\res\\menu\\main.xml"
+    }
+]
